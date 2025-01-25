@@ -37,6 +37,11 @@ This repository contains a web browsing agent designed to perform tasks on the w
 - Streamlined execution of repetitive web-based activities.
 - Privacy-conscious browsing automation on local machines.
 
+
+https://github.com/user-attachments/assets/9b73d95f-ea09-4e81-babf-37641122e774
+
+
+
 ---
 
 This project emphasizes privacy, control, and versatility, leveraging open-source technologies to deliver a powerful yet secure browsing assistant.
